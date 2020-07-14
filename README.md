@@ -1,5 +1,5 @@
 # React JS Resume Web App      
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Portfolio")
+![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Portfolio")
 ### <a href="https://react-resume-template.herokuapp.com/">LIVE DEMO</a> 
 
 ## Credits
