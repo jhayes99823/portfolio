@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name": "Jordan Hayes",
+    "occupation": "Software Engineer",
+    "description": "I'm a Junior Compute Science student currently studying at Rose-Hulman Institute of Technology",
+    "image": "profilepic.jpg",
+    "bio": "I love programming and being a software engineer because it allows me to combine the technical aspects that challenge me and the creativity that comes along with building a solution. I have interest and experience in Front End, Back End, and Mobile Development.",
+    "contactmessage": "Currently open for freelance projects and opportunities or internships.",
+    "email": "hayesja99@gmail.com",
+    "phone": "770-378-6438",
+    "address": {
+      "street": "12818 NW 79th St",
+      "city": "Kansas City",
+      "state": "Missouri",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "jhayes_resume_july2020.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jordan-hayes-rose/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/jhayes99823",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "One of the best things about engineering and design is that you are constantly learning and I love learning, especially new technologies.",
+    "education": [
+      {
+        "school": "Rose-Hulman Institute of Technology",
+        "degree": "B.S. Computer Science",
+        "graduated": "May 2022",
+        "description": "Rose-Hulman is a small, but mighty, undergraduate school that focuses on the individual. There I was able to work closely with my professors to truly learn the fundamentals and then take the next steps by working on my own side projects."
+      }
+    ],
+    "work": [
+      {
+        "company": "PayIt LLC",
+        "title": "Software Engineer Intern",
+        "years": "May 2020 - Present",
+        "description": "Currently working on what is now the third iteration of the project I devlved into last time. This time I am utilzing Salesforce MuleSoft with the goal of creating a no-code/low-code integrations for clients and to further reduce integration time. By the end of the summer I will have worked on and completed a new internal service for creating generic dashboards, a new client integration, and several migrations."
+      },
+      {
+        "company": "Dodi Home",
+        "title": "Software Engineer Intern ",
+        "years": "May 2020 - July 2020",
+        "description": "Worked with a small team of developers where I established a more streamlined development system. I also created more extensive documentation for each feature I worked on included UI Sketches, DB Schemas, and a Feature Write Up. I also created a basic landing page with the framework to be an SEO. Technologies utilized were Typescript, React, Vue, Express.JS, Jest testing framework, and Node.JS."
+      },
+      {
+        "company": "Squad",
+        "title": "Full Stack Engineer",
+        "years": "August 2019 - December 2019",
+        "description": "Helped this early stage startup work towards an MVP to present to investors for funding. My main work included setting Apolllo and GraphQL mutations and queries, creating several customer and admin pages using React and Redux and doing light documentation work, such DB Schemas."
+      },
+      {
+        "company": "PayIt LLC",
+        "title": "Software Engineering Intern",
+        "years": "May 2019 - August 2019",
+        "description": "Worked in small team to help build the first iteration of scaling down the time it takes to integrate a new client. My work consisted of helping design the strategy and system design for this endevavour, standing up a new microservice with the generacized models and REST API endpoints in Java, and some front end work in React on both the citizen and government management side. Other technologies utilized inclide Mocha testing framework, MongoDB, and Kafka."
+      }
+    ],
+    "skills": [
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "MSSQL",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "50%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "50%"
+      },
+      {
+        "name": "Data Structures and Algorithms",
+        "level": "50%"
+      },
+      {
+        "name": "Systems Design"
+      },
+      {
+        "name": "Node.JS",
+        "level": "75%"
+      },
+      {
+        "name": "Express.JS",
+        "level": "65%"
+      },
+      {
+        "name": "React.JS",
+        "level": "50%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "Figma Prototyping"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "iOS Weather Application",
+        "category": "Location Based Weather Application",
+        "image": "Clima.gif",
+        "url": "https://github.com/jhayes99823/iOSDevelopment"
+      },
+      {
+        "title": "Android Grocery List Application",
+        "category": "Android Application to make your grocery shopping experience a breeze",
+        "image": "android_grocery_app.png",
+        "url": "https://github.com/jhayes99823/grocery_application_android"
+      },
+      {
+        "title": "RoseEats",
+        "category": "iOS DoorDash/Uber Eats Clone for my college campus",
+        "image": "RoseEats.PNG",
+        "url": "https://github.com/jhayes99823/RoseEats"
+      },
+      {
+        "title": "MERN Stack Web Application",
+        "category": "A React based website",
+        "image": "react-to-do-app.png",
+        "url": "https://github.com/jhayes99823/mern-react-app"
+      },
+      {
+        "title": "Python and Django Real Estate Site",
+        "category": "Web Application",
+        "image": "btrealestate_screenshot_.png",
+        "url": "https://github.com/jhayes99823/btre_project"
+      },
+      {
+        "title": "Find A Volcanoe",
+        "category": "Learn more about the volcanoes with this application built with python",
+        "image": "python-find-the-volcanoes.PNG",
+        "url": "https://github.com/jhayes99823/PythonProjects"
+      }
+    ]
+  }
+}
