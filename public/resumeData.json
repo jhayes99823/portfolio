@@ -44,7 +44,7 @@
         "company": "PayIt LLC",
         "title": "Software Engineer Intern",
         "years": "May 2020 - Present",
-        "description": "Currently working on what is now the third iteration of the project I devlved into last time. This time I am utilzing Salesforce MuleSoft with the goal of creating a no-code/low-code integrations for clients and to further reduce integration time. By the end of the summer I will have worked on and completed a new internal service for creating generic dashboards, a new client integration, and several migrations."
+        "description": "Currently working on what is now the third iteration of the project I devlved into last time. This time I am utilzing Salesforce MuleSoft with the goal of creating a no-code/low-code integrations solution for non-technical coworkers to more easily and quickly integrate new for clients to reduce total time taken and overall engineering manpower needed. By the end of the summer I will have worked on and completed a new internal service for creating generic dashboards, a new client integration, and several migrations."
       },
       {
         "company": "Dodi Home",
@@ -157,7 +157,7 @@
       {
         "title": "Find A Volcanoe",
         "category": "Learn more about the volcanoes with this application built with python",
-        "image": "python-find-the-volcanoes.PNG",
+        "image": "python-find-the-volcanoes.png",
         "url": "https://github.com/jhayes99823/PythonProjects"
       }
     ]
