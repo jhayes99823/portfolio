@@ -1,6 +1,6 @@
 # React JS Resume Web App      
 ![ReactJS Resume](resume-screenshot.png?raw=true "ReactJS Resume Portfolio")
-### <a href="https://www.jordanhayes.info//">LIVE WEBSITE</a> 
+### <a href="https://www.jordanhayes.info/">LIVE WEBSITE</a> 
 
 ## Credits
 #### HTML Design Template
