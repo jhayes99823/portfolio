@@ -2,7 +2,7 @@
   "main": {
     "name": "Jordan Hayes",
     "occupation": "Software Engineer",
-    "description": "I'm a Junior Compute Science student currently studying at Rose-Hulman Institute of Technology",
+    "description": "I'm a Junior Computer Science student currently studying at Rose-Hulman Institute of Technology",
     "image": "profilepic.jpg",
     "bio": "I love programming and being a software engineer because it allows me to combine the technical aspects that challenge me and the creativity that comes along with building a solution. I have interest and experience in Front End, Back End, and Mobile Development.",
     "contactmessage": "Currently open for freelance projects and opportunities or internships.",
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "jhayes_resume_july2020.pdf",
+    "resumedownload": "jhayes_resume_august_2020.pdf",
     "social": [
       {
         "name": "linkedin",
