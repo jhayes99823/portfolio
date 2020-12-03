@@ -10,7 +10,6 @@ class Contact extends Component {
 
    onSubmit(event) {
       event.preventDefault();
-      event.target.reset();
       emailjs.sendForm('gmail', 'template_XF1SeYSQ', event.target, 'user_XZH4pueNUstxeDPrhkt09')
       .then((result) => {
           console.log(result.text);
