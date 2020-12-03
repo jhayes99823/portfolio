@@ -46,11 +46,12 @@ class Contact extends Component {
             <div className="ten columns">
 
                   <p className="lead">{message}</p>
+                  <p className='lead' style={{ color: "white", }}>Update 10/3/2020</p>
+                  <p className='lead' style={{ color: "red", }}><b><i>If you have sent a contact message within the last 2 - 3 months I have not received your message.<br/> I apologize for the inconvenience, but the contact form is working properly now.</i></b></p>
 
             </div>
 
          </div>
-
          <div className="row">
             <div className="eight columns">
 
