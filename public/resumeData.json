@@ -16,8 +16,7 @@
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "jhayes_resume_august_2020.pdf",
-    "social": [
-      {
+    "social": [{
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/jordan-hayes-rose/",
         "className": "fa fa-linkedin"
@@ -31,16 +30,13 @@
   },
   "resume": {
     "skillmessage": "One of the best things about engineering and design is that you are constantly learning and I love learning, especially new technologies.",
-    "education": [
-      {
-        "school": "Rose-Hulman Institute of Technology",
-        "degree": "B.S. Computer Science",
-        "graduated": "May 2022",
-        "description": "Rose-Hulman is a small, but mighty, undergraduate school that focuses on the individual. There I was able to work closely with my professors to truly learn the fundamentals and then take the next steps by working on my own side projects."
-      }
-    ],
-    "work": [
-      {
+    "education": [{
+      "school": "Rose-Hulman Institute of Technology",
+      "degree": "B.S. Computer Science",
+      "graduated": "May 2022",
+      "description": "Rose-Hulman is a small, but mighty, undergraduate school that focuses on the individual. There I was able to work closely with my professors to truly learn the fundamentals and then take the next steps by working on my own side projects."
+    }],
+    "work": [{
         "company": "PayIt LLC",
         "title": "Software Engineer Intern",
         "years": "May 2020 - Present",
@@ -65,8 +61,7 @@
         "description": "Worked in small team to help build the first iteration of scaling down the time it takes to integrate a new client. My work consisted of helping design the strategy and system design for this endevavour, standing up a new microservice with the generacized models and REST API endpoints in Java, and some front end work in React on both the citizen and government management side. Other technologies utilized inclide Mocha testing framework, MongoDB, and Kafka."
       }
     ],
-    "skills": [
-      {
+    "skills": [{
         "name": "MongoDB",
         "level": "80%"
       },
@@ -123,8 +118,7 @@
     ]
   },
   "portfolio": {
-    "projects": [
-      {
+    "projects": [{
         "title": "iOS Weather Application",
         "category": "Location Based Weather Application",
         "image": "Clima.gif",
@@ -159,6 +153,12 @@
         "category": "Learn more about the volcanoes with this application built with python",
         "image": "python-find-the-volcanoes.png",
         "url": "https://github.com/jhayes99823/PythonProjects"
+      },
+      {
+        "title": "Card Game API",
+        "category": "Backend API",
+        "image": "MyDeckAPI.png",
+        "url": "https://github.com/jhayes99823/MyDeckAPI"
       }
     ]
   }

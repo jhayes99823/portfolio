@@ -1,4 +1,6 @@
+import $ from 'jquery';
 import React, { Component } from 'react';
+import { findDOMNode } from 'react-dom';
 import emailjs from 'emailjs-com';
 
 class Contact extends Component {
@@ -12,7 +14,7 @@ class Contact extends Component {
       event.preventDefault();
       emailjs.sendForm('gmail', 'template_XF1SeYSQ', event.target, 'user_XZH4pueNUstxeDPrhkt09')
       .then((result) => {
-          console.log(result.text);
+         this.refs["contact-form"].reset();
           alert("Email Succesfully Sent! Thank you reaching out.");
       }, (error) => {
           console.log(error.text);
@@ -55,7 +57,7 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form className="contactForm" onSubmit={this.onSubmit}>
+               <form className="contactForm" onSubmit={this.onSubmit} ref="contact-form">
                   <div>
 						   <label htmlFor="contactName">Name <span className="required">*</span></label>
 						   <input type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={this.handleChange}/>
