@@ -178,8 +178,3 @@
 
 
 });
-
-
-$( window ).on( "load", function() {
-   alert('UPDATE: 10/3/2020\n If you have sent a contact message within the last 2 - 3 months I have not received your message. I apologize for the inconvenience, but the contact form is working properly now.');
-});
