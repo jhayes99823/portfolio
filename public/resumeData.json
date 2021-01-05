@@ -37,10 +37,15 @@
       "description": "Rose-Hulman is a small, but mighty, undergraduate school that focuses on the individual. There I was able to work closely with my professors to truly learn the fundamentals and then take the next steps by working on my own side projects."
     }],
     "work": [{
+        "company": "Rose-Hulman Computer Science and Software Engineering Department",
+        "title": "Teachers Assistant/Grader",
+        "years": "November 2020 - present",
+        "description": "Working with professor Sriram and Stouder in grading assignemnts and assisting students in the fundamentals of CSSE333 or introduction to databases."
+      }, {
         "company": "PayIt LLC",
         "title": "Software Engineer Intern",
-        "years": "May 2020 - Present",
-        "description": "Currently working on what is now the third iteration of the project I devlved into last time. This time I am utilzing Salesforce MuleSoft with the goal of creating a no-code/low-code integrations solution for non-technical coworkers to more easily and quickly integrate new for clients to reduce total time taken and overall engineering manpower needed. By the end of the summer I will have worked on and completed a new internal service for creating generic dashboards, a new client integration, and several migrations."
+        "years": "May 2020 - August 2020",
+        "description": "Assisted in developing on what is now the third iteration of the project I devlved into last time. I utilzed Salesforce MuleSoft with the goal of creating a no-code/low-code integrations solution for non-technical coworkers to more easily and quickly integrate new for clients to reduce total time taken and overall engineering manpower needed. During the course of the summer I completed work on: a new internal service for creating generic dashboards, a new client integration, and several migrations."
       },
       {
         "company": "Dodi Home",
