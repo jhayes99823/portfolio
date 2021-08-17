@@ -15,8 +15,9 @@
       "zip": ""
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "jhayes_resume_august_2020.pdf",
-    "social": [{
+    "resumedownload": "JHayes_resume_july2021.pdf",
+    "social": [
+      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/jordan-hayes-rose/",
         "className": "fa fa-linkedin"
@@ -30,18 +31,28 @@
   },
   "resume": {
     "skillmessage": "One of the best things about engineering and design is that you are constantly learning and I love learning, especially new technologies.",
-    "education": [{
-      "school": "Rose-Hulman Institute of Technology",
-      "degree": "B.S. Computer Science",
-      "graduated": "May 2022",
-      "description": "Rose-Hulman is a small, but mighty, undergraduate school that focuses on the individual. There I was able to work closely with my professors to truly learn the fundamentals and then take the next steps by working on my own side projects."
-    }],
-    "work": [{
+    "education": [
+      {
+        "school": "Rose-Hulman Institute of Technology",
+        "degree": "B.S. Computer Science",
+        "graduated": "May 2022",
+        "description": "Rose-Hulman is a small, but mighty, undergraduate school that focuses on the individual. There I was able to work closely with my professors to truly learn the fundamentals and then take the next steps by working on my own side projects."
+      }
+    ],
+    "work": [
+      {
+        "company": "American Express",
+        "title": "Software Engineering Intern",
+        "years": "June 2021 - August 2021",
+        "description": "Gathered requirements and provided a mocks for approval. Served as Scrum Master for my intern team where I scheduled sprint planning meetings, ran stand ups, and reached out to external resouces to give our team coffee chats and lunch and learns. I also lead the frontend team in developing a React portal to label metadata of Hive tbales utilized in other Machine Learning tools throughout the company. This labelling enables better searching, categorizations, and tagging of both the metadata and the ML models that utilize them."
+      },
+      {
         "company": "Rose-Hulman Computer Science and Software Engineering Department",
         "title": "Teachers Assistant/Grader",
         "years": "November 2020 - present",
-        "description": "Working with professor Sriram and Stouder in grading assignemnts and assisting students in the fundamentals of CSSE333 or introduction to databases."
-      }, {
+        "description": "Held weekly office hours to facilitate learning of fundamental database concepts like 3NF and basic and more advanced SQL queries."
+      },
+      {
         "company": "PayIt LLC",
         "title": "Software Engineer Intern",
         "years": "May 2020 - August 2020",
@@ -66,7 +77,8 @@
         "description": "Worked in small team to help build the first iteration of scaling down the time it takes to integrate a new client. My work consisted of helping design the strategy and system design for this endevavour, standing up a new microservice with the generacized models and REST API endpoints in Java, and some front end work in React on both the citizen and government management side. Other technologies utilized inclide Mocha testing framework, MongoDB, and Kafka."
       }
     ],
-    "skills": [{
+    "skills": [
+      {
         "name": "MongoDB",
         "level": "80%"
       },
@@ -123,7 +135,8 @@
     ]
   },
   "portfolio": {
-    "projects": [{
+    "projects": [
+      {
         "title": "iOS Weather Application",
         "category": "Location Based Weather Application",
         "image": "Clima.gif",
